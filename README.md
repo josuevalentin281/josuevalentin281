@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Josue
 
-<!--
-**josuevalentin281/josuevalentin281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science student at UPR Mayagüez**  
+💻 Currently learning **C++ & Software Engineering**  
+📚 Course: **CIIC 4010**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 🚀 What I'm working on
+- Programming assignments for **CIIC 4010**
+- Learning C++ fundamentals
+- Using Git & GitHub properly
+
+---
+
+## 📊 GitHub Stats
+![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuevalentin281&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+📧 josue.valentin4@upr.edu
