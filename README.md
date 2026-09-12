@@ -1,8 +1,31 @@
 # 👋 Hi, I'm Josue
 
-🎓 Software Engineering student at UPR Mayagüez  
+🎓 Second-year Software Engineering student at UPR Mayagüez  
+🌐 Currently learning Frontend Development  
 📐 Currently learning Engineering Graphics  
-🌐 Currently learning HTML & Frontend Development  
+
+---
+
+## 🎯 Interests
+
+🤖 Artificial Intelligence  
+⚙️ Automation with Python and Selenium  
+💻 Software Development  
+🌐 Frontend Development  
+
+---
+
+## 🤝 About Me
+
+Friendly, collaborative, and always willing to learn from others.
+
+---
+
+## 💡 A Little More About Me
+
+- I enjoy learning about new technologies.
+- I like working with others and meeting new people.
+- I'm interested in finding ways to automate repetitive tasks.
 
 ---
 
@@ -23,33 +46,26 @@
       <sub><b>Basic</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><br>
-      <sub><b>Version Control</b></sub>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"><br>
-      <sub><b>Version Control</b></sub>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"><br>
-      <sub><b>Development</b></sub>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     </td>
   </tr>
 </table>
----
-
-## 🚀 What I'm working on
-
-- 📐 Learning Engineering Graphics
-- 🌐 Learning HTML and Frontend Development
-- 🐍 Improving my Python skills
-- 💻 Building my Software Engineering skills
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I'm Working On
 
-![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuevalentin281&show_icons=true&theme=github_dark)
+- Learning Engineering Graphics
+- Learning HTML and Frontend Development
+- Improving my Python skills
+- Exploring automation with Selenium
+- Building my Software Engineering skills
 
 ---
 
